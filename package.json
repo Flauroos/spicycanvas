@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Flauroos/spicycanvas"
+    "url": "git+https://github.com/Flauroos/spicycanvas.git"
   },
   "keywords": [
     "Discord.js",
